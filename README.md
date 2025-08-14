@@ -47,3 +47,6 @@
 💡 **Fun Fact:** I believe every line of code tells a story!  
 
 ⭐ **P.S.** Feel free to explore my repositories and star the ones you like!
+
+![Umarfaruq's GitHub Stats](https://github-readme-stats.vercel.app/api?username=omarX60065&show_icons=true&theme=radical)
+
